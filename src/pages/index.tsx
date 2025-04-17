@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Willy's Insurance Revenue Model</title>
+      <title>William Insurance Revenue Model</title>
     </Head>
     <main
       className={`${geistSans.className} ${geistMono.className} bg-white min-h-screen`}
