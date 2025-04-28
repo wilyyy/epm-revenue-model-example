@@ -20,7 +20,7 @@ export default function Home() {
     <main
       className={`${geistSans.className} ${geistMono.className} bg-white min-h-screen`}
     >
-
+      <h1>Niustra </h1>
     </main>
     </>
   );
